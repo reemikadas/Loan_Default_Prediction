@@ -271,7 +271,7 @@ Loan-Default-Prediction/
 ## Author
 
 **Reemika Subrata Das**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reemikadas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reemikadas)
 
 Interested in:
 - Data Science
