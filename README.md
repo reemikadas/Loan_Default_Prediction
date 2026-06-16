@@ -79,6 +79,8 @@ To address this issue, an **Undersampling** technique was applied to balance the
 - Accuracy
 - Precision
 - Recall
+- F1-Score
+- ROC-AUC Curve
 
 ---
 
