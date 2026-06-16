@@ -269,7 +269,7 @@ Loan-Default-Prediction/
 ## Author
 
 **Reemika Subrata Das**
-MS in Business Analytics — Santa Clara University
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reemikadas)
 
 Interested in:
 - Data Science
