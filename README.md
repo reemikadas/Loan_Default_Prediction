@@ -272,10 +272,9 @@ Loan-Default-Prediction/
 
 **Reemika Subrata Das**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reemikadas)
+- GitHub: [@reemikadas](https://github.com/reemikadas)
+- LinkedIn: [linkedin.com/in/reemikadas](https://www.linkedin.com/in/reemikadas)
+- Email: das.reemika@gmail.com
 
-Interested in:
-- Data Science
-- Machine Learning Engineering
-- Data Analytics
-- Applied AI
+---
+
